@@ -7,9 +7,11 @@ Tech skills:
 
 🔸JavaScript ES5/ES6
 
-🔸HTML5/CSS/SCSS/SASS
+🔸HTML5/CSS/SCSS/SASS/Styled Components/Tailwind.css
 
 🔸React/React hooks/Redux/@Redux Toolkit
+
+🔸Next.js/Node.js/Express.js
 
 🔸HTTP/REST API/JSON
 
